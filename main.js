@@ -1,3 +1,7 @@
+// Course: Ohjelmistojen ylläpito ja testaus
+// Task: Unit testing (Mocha + Chai)
+// Author: Teemu Koivukangas
+
 const mylib = require("./mylib");
 
 console.log("add:", mylib.add(2, 3));

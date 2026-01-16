@@ -1,3 +1,7 @@
+// Course: Ohjelmistojen ylläpito ja testaus
+// Task: Unit testing (Mocha + Chai)
+// Author: Teemu Koivukangas
+
 function add(a, b) {
   return a + b;
 }
